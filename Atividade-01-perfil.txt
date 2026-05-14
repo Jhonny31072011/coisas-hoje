@@ -1,0 +1,1 @@
+Hoje eu Criei uma pasta no seu computador chamada coisas-hoje para o projeto e transformei em um repositório Git local.
